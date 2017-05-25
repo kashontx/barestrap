@@ -1,0 +1,30 @@
+{
+  "name": "barestrap",
+  "homepage": "https://github.com/kashontx/barestrap",
+  "authors": [
+    "Kashon Tx/Work <kashontx@gmail.com>"
+  ],
+  "description": "A simple HTML startup template based on Bootstrap/ jQuery.",
+  "main": "index.php",
+  "keywords": [
+    "bootstrap",
+    "jquery",
+    "html",
+    "css",
+    "js",
+    "javascript"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1",
+    "bootstrap-validator": "^0.11.9"
+  }
+}
