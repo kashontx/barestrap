@@ -1,0 +1,13 @@
+{
+    "name": "kashontx/barestrap",
+    "description": "A simple HTML startup template based on Bootstrap/ jQuery.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kashon Tx",
+            "email": "kashontx@gmail.com"
+        }
+    ],
+    "require": {}
+}
